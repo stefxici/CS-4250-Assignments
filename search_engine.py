@@ -1,4 +1,4 @@
-#-------------------------------------------------------------------------
+#---------------------------------------------------------------------
 # AUTHOR: your name
 # FILENAME: title of the source file
 # SPECIFICATION: description of the program
