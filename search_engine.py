@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Estefania Chavez
+# FILENAME: Search_engine.py
+# SPECIFICATION: Assignement based on the problem 7 which is index term weights and their importance rankings for web search
 # FOR: CS 4250- Assignment #1
 # TIME SPENT: 6 or more hours
 #-----------------------------------------------------------*/
